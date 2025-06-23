@@ -62,19 +62,6 @@
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "https://discord.gg/gasdotzip"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Bridge Now",
-      "href": "https://gas.zip"
-    }
-  },
   "footer": {
     "socials": {
       "x": "https://x.com/gasdotzip",
